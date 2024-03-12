@@ -26,21 +26,7 @@ public class Main {
         System.out.println( rubrica.cercaNome("Mario"));
         System.out.println(rubrica.cercaNumero("789456"));
 
-
-
-
-
-
-
-
-
         System.out.println(rubrica);
-
-
-
-
-
-
 
 //        position(listaEsempio, false);
 
